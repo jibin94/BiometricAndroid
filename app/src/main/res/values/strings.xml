@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Biometric-Auth</string>
+    <string name="bio_login">Use biometric to login</string>
+    <string name="no_biometric">This device doesn\'t have biometric sensor</string>
+    <string name="not_enrolled">This device doesn\'t have fingerprint saved, Please check your Security settings.</string>
+    <string name="image">image</string>
+    <string name="login">Login</string>
+    <string name="login_success">Login Success</string>
+</resources>
